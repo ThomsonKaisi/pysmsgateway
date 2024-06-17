@@ -1,4 +1,4 @@
-# pysmsgateway
+# pysmsgateway 0.1.0
 pysmsgateway is a Python library that provides an interface for sending SMS messages 
     via a gateway using the Traccar SMS Gateway Android application. It allows developers 
     to send SMS messages programmatically from Python code to recipient mobile numbers, 
